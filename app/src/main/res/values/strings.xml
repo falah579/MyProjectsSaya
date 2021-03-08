@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="makanan_name">Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="profile">Profile</string>
+    <string name="falah_muhammad_furqon">Falah Muhammad Furqon</string>
+    <string name="muhammadfurqonfalah_gmail_com">muhammadfurqonfalah@gmail.com</string>
+    <string name="title">title</string>
+    <string name="informasi_detail">informasi</string>
+</resources>
